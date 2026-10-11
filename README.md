@@ -57,11 +57,3 @@ g++ tetris.cpp -o tetris
 ```
 
 **Using g++ on Linux/macOS:**
-
-```bash
-
-
-```bash
-./tetris
-```
-

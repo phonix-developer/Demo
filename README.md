@@ -50,10 +50,4 @@ Replace the placeholders with your actual repository URL and project folder name
 
 ### 2. Compile the Code
 
-**Using g++ on Windows:**
-
-```bash
-g++ tetris.cpp -o tetris
-```
-
-**Using g++ on Linux/macOS:**
+**Using g++ on Windows:

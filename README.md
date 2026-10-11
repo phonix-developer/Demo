@@ -45,9 +45,3 @@ A simple **console-based Tetris game built using C++**. The game features random
 git clone <your-repository-url>
 cd <your-project-folder>
 ```
-
-Replace the placeholders with your actual repository URL and project folder name.
-
-### 2. Compile the Code
-
-**Using g++ on Windows:

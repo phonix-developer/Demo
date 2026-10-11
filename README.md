@@ -59,18 +59,7 @@ g++ tetris.cpp -o tetris
 **Using g++ on Linux/macOS:**
 
 ```bash
-g++ tetris.cpp -o tetris
-```
 
-### 3. Run the Game
-
-**Windows:**
-
-```bash
-tetris.exe
-```
-
-**Linux/macOS:**
 
 ```bash
 ./tetris
